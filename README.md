@@ -1,7 +1,9 @@
 **🔋 Electric Vehicle Analysis – Power BI Dashboard**
+
 This project provides an analytical overview of electric vehicle (EV) adoption using interactive Power BI dashboards. The visualization captures key insights about vehicle types, model trends, manufacturers, and geographic distribution.
 
 **📊 Project Summary**
+
 The goal of this project is to explore and visualize the growth and distribution of electric vehicles. This includes:
 
 EV type distribution (Battery Electric Vehicles vs Plug-in Hybrid Electric Vehicles)
@@ -15,11 +17,13 @@ Geographic distribution of EVs across states
 CAFV eligibility insights (Clean Alternative Fuel Vehicles)
 
 **⚙️ Tools Used**
+
 Power BI: For data modeling and creating an interactive dashboard
 
 MS Excel: Data source for visualization
 
 **📌 Key Metrics & Insights**
+
 Total Vehicles Analyzed: 150.42K
 
 Average Electric Range: 67.83 km
@@ -51,6 +55,7 @@ Trend: Significant increase in EV registrations post-2018 with a peak in 2022
 CAFV Eligibility: 63K eligible, 70K not eligible
 
 **🧠 Learnings & Skills Gained**
+
 Hands-on practice with Power BI visuals: bar charts, donut charts, slicers, maps
 
 Data filtering and interactivity (slicers for city, utility, vehicle type)
